@@ -1,4 +1,4 @@
-﻿
+
 namespace Ciel_schedule
 {
     partial class Form1
@@ -674,9 +674,9 @@ namespace Ciel_schedule
             this.panel2.Controls.Add(this.label3);
             this.panel2.Controls.Add(this.label4);
             this.panel2.Controls.Add(this.label2);
-            this.panel2.Location = new System.Drawing.Point(195, 0);
+            this.panel2.Location = new System.Drawing.Point(199, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1159, 96);
+            this.panel2.Size = new System.Drawing.Size(1156, 96);
             this.panel2.TabIndex = 1;
             this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
@@ -768,7 +768,7 @@ namespace Ciel_schedule
             this.panel9.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel9.Location = new System.Drawing.Point(0, 0);
             this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(1159, 17);
+            this.panel9.Size = new System.Drawing.Size(1156, 17);
             this.panel9.TabIndex = 9;
             // 
             // panel11
@@ -781,9 +781,9 @@ namespace Ciel_schedule
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(3, 22);
+            this.pictureBox1.Location = new System.Drawing.Point(-2, 17);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(76, 71);
+            this.pictureBox1.Size = new System.Drawing.Size(76, 72);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
