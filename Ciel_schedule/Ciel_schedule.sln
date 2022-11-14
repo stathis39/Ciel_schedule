@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ciel_schedule", "Ciel_schedule\Ciel_schedule.csproj", "{1D48E336-CA37-48C5-8F0A-E1C3C0B57AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D48E336-CA37-48C5-8F0A-E1C3C0B57AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D48E336-CA37-48C5-8F0A-E1C3C0B57AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D48E336-CA37-48C5-8F0A-E1C3C0B57AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D48E336-CA37-48C5-8F0A-E1C3C0B57AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {863240B0-5360-4831-BD27-E22C0DB671B3}
+	EndGlobalSection
+EndGlobal

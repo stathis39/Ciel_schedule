@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sefea\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sefea\\.nuget\\packages"
+    ]
+  }
+}
